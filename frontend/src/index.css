@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Inter", system-ui, sans-serif;
+  padding-bottom: 130px;
+  background-color: #030712; /* room for fixed bottom navbar */
+}
