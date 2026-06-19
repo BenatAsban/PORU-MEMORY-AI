@@ -3,6 +3,6 @@
   "outputDirectory": "dist",
   "framework": "vite",
   "env": {
-    "REACT_APP_BACKEND_URL": "@backend_url"
+    "VITE_BACKEND_URL": "@backend_url"
   }
 }
